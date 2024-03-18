@@ -1,0 +1,93 @@
+#table1  {
+ color: white;
+   border-collapse:red;
+   border-spacing: 20px;
+   background-color: red;
+   margin-left: 80px;
+}
+
+body {
+   background-color:white;
+
+   color: black;
+   margin-left: 60px;
+
+}
+
+#table2 {
+   color:white;
+     border-collapse: separate;
+     border-spacing: 20px;
+     background-color:red;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-style: arial;
+
+  }
+p { 
+  font-size: large;
+  font-style: arial;
+}
+
+b { font-size: big;
+  font-style: arial;
+}
+
+p { font-size: larger;
+  font-style: arial;
+}
+  
+
+b1 { font-size: larger;
+  font-style: arial;
+  margin-left: 400px; 
+}
+
+
+.cookie-banner {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	background-color: #ddd;
+	text-align: center;
+}
+
+.cookie-buttons button {
+	margin: 0 10px;
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+	background-color: #fff;
+	margin: 10% auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 60%;
+}
+
+.close {
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+
+
